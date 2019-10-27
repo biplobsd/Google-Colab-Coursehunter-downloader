@@ -4,7 +4,7 @@
 
 <b>Features:</b>
 - [x] Batch course Downloading.
-- [x] Auto upload course after course download competed.
+- [x] Auto upload course to `Gdrive` after course download competed.
 - [x] Free course only.
 
 # Usage
